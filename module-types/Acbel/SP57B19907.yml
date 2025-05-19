@@ -1,7 +1,7 @@
 ---
 manufacturer: Acbel
 model: SP57B19907
-part_number: FSJ017
+part_number: SP57B19907
 description: 1100w Power Supply
 power-ports:
   - name: '{module}'
