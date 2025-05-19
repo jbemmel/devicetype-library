@@ -15,15 +15,11 @@ interfaces:
     type: 1000base-t
     mgmt_only: true
 power-ports:
-  - name: PSU0
-    type: iec-60320-c14
   - name: PSU1
     type: iec-60320-c14
+  - name: PSU2
+    type: iec-60320-c14
 module-bays:
-  - name: PSU-1
-    position: PSU-1
-  - name: PSU-2
-    position: PSU-2
   - name: OCP slot 1
     position: OCP-1
   - name: Riser 1 - PCIe slot 1
