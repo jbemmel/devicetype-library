@@ -1,0 +1,9 @@
+---
+manufacturer: Acbel
+model: SP57B19907
+part_number: SP57B19907
+description: 1100w Power Supply
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 1100
