@@ -1,0 +1,8 @@
+---
+manufacturer: Delta
+model: SP57B72522
+part_number: SP57B72522
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 1800
