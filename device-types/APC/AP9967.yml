@@ -197,35 +197,35 @@ power-outlets:
     feed_leg: B
     power_port: Power Cord
 # Bank 6 L3-L1
-  - name: Cank 6 L3-L1 C13 41
+  - name: Bank 6 L3-L1 C13 41
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Cank 6 L3-L1 C13 42
+  - name: Bank 6 L3-L1 C13 42
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Cank 6 L3-L1 C13 43
+  - name: Bank 6 L3-L1 C13 43
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Cank 6 L3-L1 C13 44
+  - name: Bank 6 L3-L1 C13 44
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Cank 6 L3-L1 C13 45
+  - name: Bank 6 L3-L1 C13 45
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Cank 6 L3-L1 C13 46
+  - name: Bank 6 L3-L1 C13 46
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Cank 6 L3-L1 C13 47
+  - name: Bank 6 L3-L1 C13 47
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Cank 6 L3-L1 C19 48
+  - name: Bank 6 L3-L1 C19 48
     type: iec-60320-c19
     feed_leg: C
     power_port: Power Cord
