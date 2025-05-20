@@ -1,0 +1,9 @@
+---
+manufacturer: Lenovo
+model: SP57B07045
+part_number: SP57B07045
+comments: ThinkSystem 1100W 230V/115V v2 Platinum Hot-Swap Gen2 Power Supply
+power-ports:
+  - name: '{module}'
+    type: iec-60320-c14
+    maximum_draw: 1100
