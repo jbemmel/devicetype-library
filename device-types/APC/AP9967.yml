@@ -32,200 +32,200 @@ power-ports:
     # maximum_draw: Leave blank for PDUs
 power-outlets:
 # Bank 1 L1-L2
-  - name: Bank 1 L1-L2 C13 01
+  - name: C13 01
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: Bank 1 L1-L2 C13 02
+  - name: C13 02
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: Bank 1 L1-L2 C13 03
+  - name: C13 03
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: Bank 1 L1-L2 C13 04
+  - name: C13 04
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: Bank 1 L1-L2 C13 05
+  - name: C13 05
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: Bank 1 L1-L2 C13 06
+  - name: C13 06
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: Bank 1 L1-L2 C13 07
+  - name: C13 07
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: Bank 1 L1-L2 C19 08
+  - name: C19 08
     type: iec-60320-c19
     feed_leg: A
     power_port: Power Cord
 # Bank 2 L2-L3
-  - name: Bank 2 L2-L3 C13 09
+  - name: C13 09
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: Bank 2 L2-L3 C13 10
+  - name: C13 10
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: Bank 2 L2-L3 C13 11
+  - name: C13 11
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: Bank 2 L2-L3 C13 12
+  - name: C13 12
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: Bank 2 L2-L3 C13 13
+  - name: C13 13
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: Bank 2 L2-L3 C13 14
+  - name: C13 14
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: Bank 2 L2-L3 C13 15
+  - name: C13 15
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: Bank 2 L2-L3 C19 16
+  - name: C19 16
     type: iec-60320-c19
     feed_leg: B
     power_port: Power Cord
 # Bank 3 L3-L1
-  - name: Bank 3 L3-L1 C13 17
+  - name: C13 17
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Bank 3 L3-L1 C13 18
+  - name: C13 18
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Bank 3 L3-L1 C13 19
+  - name: C13 19
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Bank 3 L3-L1 C13 20
+  - name: C13 20
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Bank 3 L3-L1 C13 21
+  - name: C13 21
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Bank 3 L3-L1 C13 22
+  - name: C13 22
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Bank 3 L3-L1 C13 23
+  - name: C13 23
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Bank 3 L3-L1 C19 24
+  - name: C19 24
     type: iec-60320-c19
     feed_leg: C
     power_port: Power Cord
 # Bank 4 L1-L2
-  - name: Aank 4 L1-L2 C13 25
+  - name: C13 25
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: Aank 4 L1-L2 C13 26
+  - name: C13 26
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: Aank 4 L1-L2 C13 27
+  - name: C13 27
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: Aank 4 L1-L2 C13 28
+  - name: C13 28
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: Aank 4 L1-L2 C13 29
+  - name: C13 29
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: Aank 4 L1-L2 C13 30
+  - name: C13 30
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: Aank 4 L1-L2 C13 31
+  - name: C13 31
     type: iec-60320-c13
     feed_leg: A
     power_port: Power Cord
-  - name: Aank 4 L1-L2 C19 32
+  - name: C19 32
     type: iec-60320-c19
     feed_leg: A
     power_port: Power Cord
 # Bank 5 L2-L3
-  - name: Bank 5 L2-L3 C13 33
+  - name: C13 33
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: Bank 5 L2-L3 C13 34
+  - name: C13 34
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: Bank 5 L2-L3 C13 35
+  - name: C13 35
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: Bank 5 L2-L3 C13 36
+  - name: C13 36
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: Bank 5 L2-L3 C13 37
+  - name: C13 37
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: Bank 5 L2-L3 C13 38
+  - name: C13 38
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: Bank 5 L2-L3 C13 39
+  - name: C13 39
     type: iec-60320-c13
     feed_leg: B
     power_port: Power Cord
-  - name: Bank 5 L2-L3 C19 40
+  - name: C19 40
     type: iec-60320-c19
     feed_leg: B
     power_port: Power Cord
 # Bank 6 L3-L1
-  - name: Bank 6 L3-L1 C13 41
+  - name: C13 41
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Bank 6 L3-L1 C13 42
+  - name: C13 42
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Bank 6 L3-L1 C13 43
+  - name: C13 43
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Bank 6 L3-L1 C13 44
+  - name: C13 44
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Bank 6 L3-L1 C13 45
+  - name: C13 45
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Bank 6 L3-L1 C13 46
+  - name: C13 46
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Bank 6 L3-L1 C13 47
+  - name: C13 47
     type: iec-60320-c13
     feed_leg: C
     power_port: Power Cord
-  - name: Bank 6 L3-L1 C19 48
+  - name: C19 48
     type: iec-60320-c19
     feed_leg: C
     power_port: Power Cord
