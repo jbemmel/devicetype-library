@@ -13,76 +13,76 @@ power-ports:
   - name: power whip
     type: nema-l21-30p
 power-outlets:
-  - name: power outlet 1
+  - name: C13 01
     type: iec-60320-c13
     feed_leg: A
-  - name: power outlet 2
+  - name: C13 02
     type: iec-60320-c13
     feed_leg: A
-  - name: power outlet 3
+  - name: C13 03
     type: iec-60320-c13
     feed_leg: A
-  - name: power outlet 4
+  - name: C13 04
     type: iec-60320-c13
     feed_leg: A
-  - name: power outlet 5
+  - name: C13 05
     type: iec-60320-c13
     feed_leg: A
-  - name: power outlet 6
+  - name: C13 06
     type: iec-60320-c13
     feed_leg: A
-  - name: power outlet 7
+  - name: C13 07
     type: iec-60320-c13
     feed_leg: A
-  - name: power outlet 8
+  - name: C19 08
     type: iec-60320-c19
     feed_leg: A
-  - name: power outlet 9
+  - name: C13 09
     type: iec-60320-c13
     feed_leg: B
-  - name: power outlet 10
+  - name: C13 10
     type: iec-60320-c13
     feed_leg: B
-  - name: power outlet 11
+  - name: C13 11
     type: iec-60320-c13
     feed_leg: B
-  - name: power outlet 12
+  - name: C13 12
     type: iec-60320-c13
     feed_leg: B
-  - name: power outlet 13
+  - name: C13 13
     type: iec-60320-c13
     feed_leg: B
-  - name: power outlet 14
+  - name: C13 14
     type: iec-60320-c13
     feed_leg: B
-  - name: power outlet 15
+  - name: C13 15
     type: iec-60320-c13
     feed_leg: B
-  - name: power outlet 16
+  - name: C19 16
     type: iec-60320-c19
     feed_leg: B
-  - name: power outlet 17
+  - name: C13 17
     type: iec-60320-c13
     feed_leg: C
-  - name: power outlet 18
+  - name: C13 18
     type: iec-60320-c13
     feed_leg: C
-  - name: power outlet 19
+  - name: C13 19
     type: iec-60320-c13
     feed_leg: C
-  - name: power outlet 20
+  - name: C13 20
     type: iec-60320-c13
     feed_leg: C
-  - name: power outlet 21
+  - name: C13 21
     type: iec-60320-c13
     feed_leg: C
-  - name: power outlet 22
+  - name: C13 22
     type: iec-60320-c13
     feed_leg: C
-  - name: power outlet 23
+  - name: C13 23
     type: iec-60320-c13
     feed_leg: C
-  - name: power outlet 24
+  - name: C19 24
     type: iec-60320-c19
     feed_leg: C
 interfaces:
